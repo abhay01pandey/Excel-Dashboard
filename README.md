@@ -3,7 +3,7 @@ To provide a comprehensive visual representation of sales data, allowing stakeho
 
 # Key Features & Insights
 Summary Metrics Panel-
-Displays Total Quantity (48), Total Cost (1,240,580.53), and Total Items (500) to give a snapshot of overall sales performance.
+Displays Total Quantity (48), Total Cost (1,240,580.53), and Total Items (500).
 
 Time-Based Filters-
 Buttons for days and months allow dynamic filtering of data for more granular analysis by date.
